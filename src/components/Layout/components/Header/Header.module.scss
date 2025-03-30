@@ -19,7 +19,9 @@
     align-items: center;
     justify-content: space-between;
 }
-
+.logo-link {
+    display: flex;
+}
 // Action
 .actions {
     display: flex;
